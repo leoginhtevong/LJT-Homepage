@@ -1,12 +1,12 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+Junteng Liu:
+  name        : "Junteng Liu"
+  uri         : "https://github.com/Vicent0205"
+  email       : "jliugi@connect.ust.hk"
+  bio         : "First-year PhD candidate at HKUST NLP Group (advisor: Prof. Junxian He). Graduated from Shanghai Jiao Tong University in June 2024. Research focuses on natural language processing and machine learning; research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models, and LLM Truthfulness and Interpretability. PhD in Computer Science (2024–Present), HKUST; B.Eng. (2020–2024), SJTU. Research internships: MINIMAX (Feb 2025–Present), Tencent WXG (Jun 2024–Sep 2024), Shanghai AI Lab (Jun 2023–Dec 2023). Award: Zhiyuan Honor Scholarship, Shanghai Jiao Tong University."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
+  twitter     : "junteng88716710"
   google_plus : "Name"
 
 Name2 Name2:
